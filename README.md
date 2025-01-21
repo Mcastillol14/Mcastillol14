@@ -32,7 +32,6 @@ Actualmente estoy trabajando en **LuxeRide**, una plataforma dedicada a ofrecer 
 
 ## ✨ Sobre mí  
 - 💻 Apasionado por el desarrollo backend y la creación de soluciones robustas y escalables.  
-- 🌍 Motivado por aprender y colaborar en proyectos que impacten positivamente al mundo.  
 - 🎯 Mi objetivo: Dominar tecnologías backend modernas y diseñar arquitecturas eficientes para aplicaciones web.  
 
 
