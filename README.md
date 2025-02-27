@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Mario Castillo López.  
+# 👋 ¡Hola! soy Mario Castillo López.  
 
 Soy estudiante de segundo año del ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**, apasionado por el **desarrollo backend** y la construcción de aplicaciones modernas y escalables. 🚀  
 
